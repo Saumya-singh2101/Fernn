@@ -15,3 +15,5 @@ A page where visitors can find details to get in touch. It includes a simple con
 
 Gallery / Showcase Page
 A section that highlights visual content such as images, designs, or sample work. It demonstrates how media elements can be displayed in a clean and structured layout using CSS styling.
+
+# Hosted live on  https://quiet-elf-d4844f.netlify.app/
